@@ -1,0 +1,27 @@
+.root {
+  -fx-background-color: linear-gradient(#98b5f3, #f59794);
+  -fx-font-size: 10pt;
+}
+
+.button {
+  -fx-background-color: linear-gradient(#4b5579, #8f6e6c);
+  -fx-text-fill: #edffea;
+  -fx-background-radius: 6;
+}
+
+#ganti_warna {
+  -fx-background-color: #666768;
+  -fx-text-fill: #ffffff;
+}
+
+#bold-label {
+  -fx-text-fill: #004408;
+  -fx-font-weight: bold;
+  -fx-font-size: 10pt;
+}
+
+#bold-label-2 {
+  -fx-text-fill: #281786;
+  -fx-font-weight: bold;
+  -fx-font-size: 10pt;
+}

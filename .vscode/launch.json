@@ -1,0 +1,109 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch JavaFX_MiniWarGame",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "JavaFX_MiniWarGame",
+      "projectName": "MiniWarGame_JavaFX_ae3bad4a"
+    },
+    {
+      "type": "java",
+      "name": "Launch test_2",
+      "request": "launch",
+      "mainClass": "test_2",
+      "projectName": "MiniWarGame_JavaFX_a68e172f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "Test",
+      "projectName": "MiniWarGame_JavaFX_a68e172f"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFX_MiniWarGame",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "JavaFX_MiniWarGame",
+      "projectName": "MiniWarGame_JavaFX_a68e172f"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFX_MiniWarGame",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "JavaFX_MiniWarGame",
+      "projectName": "Belajar_Java_2b0d719d"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFx_Input",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "JavaFx_Input",
+      "projectName": "Belajar_Java_2b0d719d"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaKampus",
+      "request": "launch",
+      "mainClass": "JavaKampus",
+      "projectName": "Belajar_Java_2b0d719d"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFX_AlerttBox",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "JavaFX_AlerttBox",
+      "projectName": "Belajar_Java_2b0d719d"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFX_MoveScene",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "request": "launch",
+      "mainClass": "JavaFX_MoveScene",
+      "projectName": "Belajar_Java_2b0d719d"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFX",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "JavaFX",
+      "projectName": "Belajar_Java_2b0d719d"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "test",
+      "projectName": "Belajar_Java_2b0d719d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "vmArgs": "--module-path C:/Users/USER/Documents/Aplikasi_Penunjang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "App",
+      "projectName": "Belajar_Java_2b0d719d"
+    }
+  ]
+}
